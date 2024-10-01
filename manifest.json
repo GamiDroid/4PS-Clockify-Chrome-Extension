@@ -1,0 +1,10 @@
+{
+    "name": "4PS Clockify",
+    "description": "Extension to integrate clockify with 4PS",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "4ps-clockify-icon.png"
+    }
+}
