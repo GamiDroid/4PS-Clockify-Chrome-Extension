@@ -1,0 +1,29 @@
+{
+  "name": "4ps-clockify-chrome-extension",
+  "version": "1.0.0",
+  "description": "4ps clockify integration",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamiDroid/4ps-clockify-chrome-extension.git"
+  },
+  "keywords": [
+    "chrome",
+    "extensions",
+    "clockify",
+    "integration",
+    "4PS"
+  ],
+  "author": "GamiDroid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GamiDroid/4ps-clockify-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/GamiDroid/4ps-clockify-chrome-extension#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.307"
+  }
+}

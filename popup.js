@@ -1,1 +1,2 @@
-console.log('This is a popup!');
+var message = 'Hello world';
+console.log(message);
