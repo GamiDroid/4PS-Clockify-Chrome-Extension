@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/GamiDroid/4ps-clockify-chrome-extension#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "chrome-types": "^0.1.307"
   }
 }
