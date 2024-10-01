@@ -5,10 +5,16 @@
       "noImplicitAny": true,
       "removeComments": true,
       "preserveConstEnums": true,
-      "sourceMap": false,
-      "outDir": "out"
+      "sourceMap": true,
+      "outDir": "out",
+      "types": [
+        "chrome-types"
+      ],
     },
-    "include": ["src/**/*"],
+    "include": [
+      "src/**/*",
+      "node_modules/chome-types/index.d.ts"
+    ],
     "exclude": [],
     // "files": []
   }
